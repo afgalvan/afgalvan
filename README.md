@@ -13,5 +13,9 @@
 <p>
   <h3> :octocat: GitHub Stats </h3>
 
-  <img alt="Andrés's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuniorWriter&show_icons=true&hide_border=true" />
+  <img alt="Andrés' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuniorWriter&show_icons=true&hide_border=true" />
+</p>
+
+<p>
+<img alt= "Andrés' Github Top Languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorWriter&layout=compact&hide_border=true" />
 </p>
