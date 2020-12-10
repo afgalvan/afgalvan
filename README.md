@@ -2,8 +2,10 @@
 
 ## I'm a college student who's trying to constanly learn new things
 
-- 🌱 I’m currently learning learning C++ & Python.
-- 🤔 I'd like to learn fronted with react.
+- 🌱 I’m currently learning C++ & Python.
+- 🤖 I enjoy automating almost everything as far as my skills can.
+- 🤔 I'd like to learn Docker, Kubernetes, and other DevOps technologies.
+- 💻 Trying to follow the SRE path.
 
 <!-- ### Languages and Tools: -->
 <!-- Soon -->
