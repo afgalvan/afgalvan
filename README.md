@@ -14,8 +14,19 @@
 
 ### :octocat: GitHub Stats
 
-<a href="https://github.com/afgalvan">
-  <img alt="Andrés' GitHub Stats" height="160em" src="https://github-readme-stats.michalmarchewczyk.vercel.app/api?username=afgalvan&count_private=true&show_icons=true&include_all_commits=true&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_width=2&border_color=30363d" />
-
-  <img alt= "Andrés' Github Top Languages" height="160em" src="https://github-readme-stats.michalmarchewczyk.vercel.app/api/top-langs/?username=afgalvan&layout=compact&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&border_width=2&border_color=30363d" />
-</a>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <a href="https://github.com/afgalvan#user-activity-overview">
+          <img alt="Andrés' GitHub Stats" height="180rem" src="https://github-readme-stats.vercel.app/api?username=afgalvan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/afgalvan?tab=repositories&type=source">
+          <img alt= "Andrés' Github Top Languages" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afgalvan&layout=compact&hide_border=true&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
