@@ -15,7 +15,7 @@
 ### :octocat: GitHub Stats
 
 <a href="https://github.com/afgalvan">
-  <img alt="Andrés' GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=afgalvan&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img alt="Andrés' GitHub Stats" height="160em" src="https://github-readme-stats.michalmarchewczyk.vercel.app/api?username=afgalvan&count_private=true&show_icons=true&include_all_commits=true&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_width=2&border_color=30363d" />
 
-  <img alt= "Andrés' Github Top Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afgalvan&layout=compact&hide_border=true&&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img alt= "Andrés' Github Top Languages" height="160em" src="https://github-readme-stats.michalmarchewczyk.vercel.app/api/top-langs/?username=afgalvan&layout=compact&title_color=ffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&border_width=2&border_color=30363d" />
 </a>
