@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java.
 - 🤖 I enjoy automating almost everything as far as my skills can.
 - 🤔 I'd like to learn Docker, Kubernetes, and other DevOps technologies.
-- 💻 Trying to follow the SRE path.
+- 💻 Trying to follow the SWE path.
 
 <!-- ### Languages and Tools: -->
 <!-- Soon -->
