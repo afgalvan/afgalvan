@@ -2,7 +2,7 @@
 
 ## I'm a college student who's trying to constantly learn new things
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning [.NET](https://dotnet.microsoft.com/).
 - 🤖 I enjoy automating almost everything as far as my skills can.
 - 🤔 I'd like to learn Docker, Kubernetes, and other DevOps technologies.
 - 💻 Trying to follow the SWE path.
