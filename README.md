@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/).
 - 🤖 I enjoy automating almost everything as far as my skills can.
 - 🤔 I'd like to learn Terraform, Ansible, and other DevOps technologies.
-- 💻 Trying to follow the SWE path.
-
-<!-- ### Languages and Tools: -->
-<!-- Soon -->
+- 💻 Trying to contribute to the open-source community continuously.
 
 ---
 
