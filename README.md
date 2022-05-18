@@ -1,6 +1,6 @@
 # Hi there, I'm Andrés 👋
 
-## I'm a college student who's trying to constantly learn new things
+## I'm a software developer who's trying to constantly learn new things
 
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/).
 - 🤖 I enjoy automating almost everything as far as my skills can.
