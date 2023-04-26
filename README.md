@@ -2,9 +2,9 @@
 
 ## I'm a software developer who's trying to constantly learn new things
 
-- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/).
+- 🌱 I’m currently learning [Terraform](https://www.terraform.io/).
 - 🤖 I enjoy automating almost everything as far as my skills can.
-- 🤔 I'd like to learn Terraform, Ansible, and other infrastructure technologies.
+- 🤔 I'd like to learn CDK and other infrastructure technologies.
 - 💻 Trying to contribute to the open-source community continuously.
 
 ---
