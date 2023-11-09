@@ -1,11 +1,11 @@
 # Hi there, I'm Andrés 👋
 
-## I'm a software developer who's trying to constantly learn new things
+## I'm a DevOps who's trying to constantly learn new things
 
 - 🌱 I’m currently learning [Terraform](https://www.terraform.io/).
 - 🤖 I enjoy automating almost everything as far as my skills can.
 - 🤔 I'd like to learn CDK and other infrastructure technologies.
-- 💻 Trying to contribute to the open-source community continuously.
+- 💻 Trying to learn cloud-based solutions continuously.
 
 ---
 
