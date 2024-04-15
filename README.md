@@ -2,10 +2,10 @@
 
 ## I'm a DevOps Engineer who's trying to constantly learn about the Cloud
 
-- 🌱 I’m currently learning [Terraform](https://www.terraform.io/).
-- 🤖 I enjoy automating almost everything as far as my skills can.
-- 🤔 I'd like to learn AWS CDK and other infrastructure technologies.
-- 💻 Trying to learn cloud-based solutions continuously.
+- 🌱 I’m currently learning [Bicep](https://github.com/Azure/bicep).
+- 🤖 I enjoy automating almost everything as far as can.
+- ☁  I've worked with AWS & Azure in production.
+- 🤔 Trying to learn cloud-based solutions continuously.
 
 ---
 
